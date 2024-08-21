@@ -4,7 +4,6 @@ const nextConfig = {
 	poweredByHeader: false,
 	swcMinify: true,
 	output: "export",
-	basePath: "/shenciao",
 	images: {
 		unoptimized: true,
 	},
