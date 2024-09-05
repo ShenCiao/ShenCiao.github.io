@@ -14,9 +14,9 @@ const About = (): JSX.Element => {
 				<div className="flex flex-col max-w-xl w-full justify-evenly">
 					<h1 className="text-4xl font-bold pb-8 md:pb-0">{personalInfo.name}</h1>
 					<p>
-						Shen Ciao is an individual researcher in Anime Computer Graphics (i.e., ACG researcher).
-						He invents and develops tools for anime production (e.g. Paint Software, Brush Rendering Engine).
-						He is advised by <ExtLink href="https://www.liyiwei.org/">Li-Yi Wei</ExtLink> when working at home.
+						Hi, I'm an individual researcher in Anime Computer Graphics (i.e., ACG researcher).
+						I invent and develop tools for anime production (e.g. Paint Software, Brush Rendering Engine).
+						I am advised by <ExtLink href="https://www.liyiwei.org/">Li-Yi Wei</ExtLink> when working at home.
 					</p>
 					<p className = "text-sm text-gray-600">
 						Research Interest: {personalInfo.about.interest}

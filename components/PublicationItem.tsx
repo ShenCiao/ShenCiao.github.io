@@ -1,7 +1,7 @@
 import ExtLink from './ExtLink';
 import { ReactElement } from "react";
 
-const PublicationItem = ({title, url, conference}): ReactElement => {
+const PublicationItem = ({title, url, conference}:{title:string, url:string, conference:string}): ReactElement => {
     return (
         <div className = "mt-4 mb-8">
             <p className = "text-base text-gray-500">
