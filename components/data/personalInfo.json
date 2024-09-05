@@ -1,12 +1,11 @@
 {
     "title": "Harry Potter",
-    "name": "Harry James Potter",
-    "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "name": "Shen Ciao(乔燊)",
+    "domain":"https://shenciao.github.io/",
+    "copyright":"Creative Commons Attribution-ShareAlike 4.0 International License.",
     "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+        "LinkedIn": "https://www.linkedin.com/in/shenciao/",
+        "GoogleScholar":"https://scholar.google.com/citations?user=Gc6AQbIAAAAJ&hl=en"
     },
     "about": {
         "year": "7th-year",
@@ -22,18 +21,13 @@
             "name": "Albus Dumbledor",
             "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
         },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "1500013714@pku.edu.cn",
+        "interest": "Computer Graphics; Digital Painting; Anime."
     },
-    "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
     "education": [
         {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
+            "name": "Peking University",
             "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
-        },
-        {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
-            "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         }
     ]
 
